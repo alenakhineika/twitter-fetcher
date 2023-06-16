@@ -48,4 +48,4 @@ If you don't want to create a Twitter developer account, you can use `data/tweet
 ## Features
 
 - Twitter API
-- OAuth1
+- OAuth 1.0a
